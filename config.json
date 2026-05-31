@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenponnect",
+        "uuid": 8783667,
+        "checksum": "p189oa"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
